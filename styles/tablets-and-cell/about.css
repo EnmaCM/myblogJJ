@@ -1,0 +1,10 @@
+
+@media (max-width: 742px) {
+  article li{
+    max-width: 90vw;
+  }
+  article ul{
+    padding-left: 1.5rem;
+
+  }
+}

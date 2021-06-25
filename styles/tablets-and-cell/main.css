@@ -1,0 +1,41 @@
+
+
+@media (max-width: 1040px) {
+  
+  #information p{
+    font-size: 1rem;
+  }
+  #information{
+    min-height: 50vw;
+  }
+  #recents-articles  li{
+    min-width: 10vw;
+    max-width: 30vw;
+    /* padding: 4rem; */
+  }
+  #recents-articles h1{
+    /* display: inline-block; */
+    margin: 0.5rem;
+    /* margin: 2rem; */
+  }
+}
+
+@media (max-width: 624px){
+  #recents-articles{
+    flex-direction: column;
+    
+  }
+  #recents-articles li{
+    min-height: 20vh;
+    max-height: 60vh;
+    max-width: 100vw;
+    min-width: 90vw;
+
+    margin: 0.5rem;
+  }
+
+  #information{
+    min-height: 60vh;
+  }
+  
+}
