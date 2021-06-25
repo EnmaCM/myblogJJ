@@ -39,3 +39,13 @@
   }
   
 }
+
+@media (max-height: 702px){
+  #information{
+    min-height: 100vh;
+    margin-top: 0;
+  }
+  #recents-articles{
+    margin-bottom: 0;
+  }
+}
