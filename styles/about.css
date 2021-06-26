@@ -39,3 +39,7 @@ article p{
 article li{
   max-width: 50vw;
 }
+#names p{
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
